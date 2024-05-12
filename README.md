@@ -34,13 +34,13 @@ The project involves the following steps:
 ## Screenshots
 
 ### Dashboard - Profit
-![Dashboard - Profit](images/Dashboard-Profit.png)
+![Dashboard - Profit](images/Dashboard_Profit.png)
 
 ### Dashboard - Sales
-![Dashboard - Sales](images/Dashboard-Sales.png)
+![Dashboard - Sales](images/Dashboard_Sales.png)
 
 ### Dashboard - Units Sold
-![Dashboard - Units Sold](images/Dashboard-Units_Sold.png)
+![Dashboard - Units Sold](images/Dashboard_Units_Sold.png)
 
 ### Entity-Relationship Diagram (ERD)
 ![ERD Diagram](images/ER-Diagram.png)
