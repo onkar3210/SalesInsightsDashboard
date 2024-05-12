@@ -45,10 +45,6 @@ The project involves the following steps:
 ### Entity-Relationship Diagram (ERD)
 ![ERD Diagram](images/ER-Diagram.png)
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
