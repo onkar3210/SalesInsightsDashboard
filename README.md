@@ -40,7 +40,7 @@ The project involves the following steps:
 ![Dashboard - Sales](images/Dashboard-Sales.png)
 
 ### Dashboard - Units Sold
-![Dashboard - Units Sold](images/Dashboard-Units Sold.png)
+![Dashboard - Units Sold](images/Dashboard-Units_Sold.png)
 
 ### Entity-Relationship Diagram (ERD)
 ![ERD Diagram](images/ER-Diagram.png)
